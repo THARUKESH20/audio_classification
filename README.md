@@ -31,7 +31,7 @@ To run the notebook locally, clone the repository and install the required depen
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/audio-classification.git
+git clone https://github.com/THARUKESH20/audio_classification.git
 cd audio-classification
 Install the dependencies:
 You can install the dependencies by running:
